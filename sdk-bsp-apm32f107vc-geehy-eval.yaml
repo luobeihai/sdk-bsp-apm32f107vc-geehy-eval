@@ -27,7 +27,7 @@ chip:
   rx_name: PA10
   series_name: APM32F1
   source_freq: '8000000'
-  sub_series_name: APM32F103
+  sub_series_name: APM32F107
   target_freq: '240000000'
   tx_name: PA9
   uart_name: UART1
